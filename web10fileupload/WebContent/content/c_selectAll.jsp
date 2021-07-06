@@ -40,7 +40,6 @@
 		<c:forEach var="vo" items="${list}">
 			<tr>
 				<td><a href="c_selectOne.do?contentNum=${vo.contentNum}">${vo.contentNum}</a></td>
-				<td>${vo.contentNum}</td>
 				<td>${vo.contentTitle}</td>
 				<td>${vo.contentPoint}</td>
 				<td>${vo.contentReview}</td>
