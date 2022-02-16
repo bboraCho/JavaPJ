@@ -8,7 +8,7 @@
 <title>index.jsp</title>
 </head>
 <body>
-	<h1>index.jsp</h1>
+	<h1> Rottem Mango - Movie Review </h1>
 	
 	<jsp:include page="menu.jsp"></jsp:include>
 	
